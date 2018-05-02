@@ -1,4 +1,4 @@
-# jun0
+<a# jun0
 <!DOCTYPE html>
 
 <html>
@@ -29,6 +29,10 @@ href="https://opentutorials.org/course/3084/18418"
 
 target="_blank">LOL</a>
 
-https://jun3249.github.io/jun0/ 
+<a
+
+href="https://jun3249.github.io/jun0/" 
+
+target="_blank">^^</a>
 
 </html>
