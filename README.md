@@ -1,7 +1,3 @@
-<f1>"jun0"</f1>
-
-<!DOCTYPE html>
-
 <html>
 
 <head>
