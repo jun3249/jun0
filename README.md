@@ -14,11 +14,13 @@
 
         if(id=='jun'){alert('아이디가 일치 합니다.')}
 
- else {while(i=0
+    var i=0
  
- i<10)
+ else { var i=0
  
- alert('아이디가 일치하지 않습니다.')}
+ while (i<10)
+ 
+ {alert('아이디가 일치하지 않습니다.')}}
 
     </script>
 
