@@ -13,8 +13,6 @@
         id = prompt('아이디를 입력해주세요.')
 
         if(id=='jun'){alert('아이디가 일치 합니다.')}
-
-    var i=0
  
  else { var i=0
  
