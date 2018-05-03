@@ -14,13 +14,11 @@
 
         if(id=='jun'){alert('아이디가 일치 합니다.')}
 
- else {alert('아이디가 일치하지 않습니다.')
+ else {while(i=0
  
-while (i=0,i<10) {id = prompt('아이디를 입력해주세요.')
-
-        if(id=='jun'){alert('아이디가 일치 합니다.')}
-         
-         else {alert('아이디가 일치하지 않습니다.')}}
+ i<10)
+ 
+ alert('아이디가 일치하지 않습니다.')}
 
     </script>
 
